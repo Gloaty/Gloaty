@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gloaty
-- 👀 I’m interested in learning new thing to do with programming
+- 👀 I’m interested in learning new things to do with programming, as a beginner
 - 🌱 I’m currently learning Python, Java, and C++, and occasionally, Google Scripts
 - 💞️ I’m looking to collaborate on Open Source Software
 - 📫 You can reach me at email address:20charw@seahamhighschool.com

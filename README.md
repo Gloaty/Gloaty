@@ -5,9 +5,9 @@
 ---
 
 ## About Me
-- 16-year-old developer from the UK
-- Currently learning **Java** and expanding into **full stack** and **game development**
-- Enjoy tackling **complex problems** and building solutions that feel polished and intuitive
+- Student Developer from the UK
+- Currently learning **Java / Kotlin** and expanding into **full stack** and **game development**
+- Enjoys tackling **complex problems** and building solutions that feel polished and intuitive
 - Constantly experimenting with **new technologies** and staying up-to-date with modern development tools
 
 ---
@@ -43,14 +43,14 @@ A calculator featuring:
 
 ## GitHub Stats
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloaty&show_icons=true&theme=tokyonight)  
+![Gloaty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloaty&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gloaty&layout=compact&theme=tokyonight)
 
 ---
 
 ## Contribution Graph
 
-[![Will's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gloaty&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gloaty's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gloaty&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

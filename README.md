@@ -20,7 +20,7 @@
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](#)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS3-639?style=for-the-badge&logo=css&logoColor=fff)](#)
-![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javacript&logoColor=white)
 
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
